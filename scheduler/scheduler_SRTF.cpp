@@ -8,6 +8,7 @@
  *     pre-emptive
  */
 
+#include <algorithm>
 #include <vector>
 #include "../includes/scheduler_SRTF.h"
 
